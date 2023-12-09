@@ -1,0 +1,2 @@
+# Advancing-Crop-Production-in-India-through-Predictive-Analytics
+Big data analytics in agriculture, including SaaS, IoT, and AI/ML, revolutionizes farming by aiding decision-making on planting, harvesting, water, and fertilizer use. Smart farming technologies enhance efficiency, impacting digital farming positively. The Ministry of Agriculture provides advance estimates for major Kharif crops, aiding planning
